@@ -1,0 +1,140 @@
+2025-06-07 22:47:34,084 - INFO - Initializing attendance system...
+2025-06-07 22:47:34,714 - INFO - System ready. Press 'q' to quit
+2025-06-07 22:47:36,753 - INFO - Marked attendance for 001
+2025-06-07 22:47:53,143 - INFO - Shutting down by user request
+2025-06-07 22:47:53,550 - INFO - System shutdown completed
+2025-06-07 22:52:15,842 - INFO - Initializing attendance system...
+2025-06-07 22:52:16,474 - INFO - System ready. Press 'q' to quit
+2025-06-07 22:52:57,475 - INFO - Shutting down by user request
+2025-06-07 22:52:57,958 - INFO - System shutdown completed
+2025-06-07 22:56:21,287 - INFO - Initializing attendance system...
+2025-06-07 22:56:21,984 - INFO - System ready. Press 'q' to quit
+2025-06-07 22:56:53,363 - INFO - Shutting down by user request
+2025-06-07 22:56:53,903 - INFO - System shutdown completed
+2025-06-07 22:57:43,756 - INFO - Initializing attendance system...
+2025-06-07 22:57:44,401 - INFO - System ready. Press 'q' to quit
+2025-06-07 22:58:09,523 - INFO - Shutting down by user request
+2025-06-07 22:58:10,081 - INFO - System shutdown completed
+2025-06-07 23:11:03,143 - INFO - Initializing attendance system...
+2025-06-07 23:11:03,535 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:11:14,145 - INFO - System shutdown completed
+2025-06-07 23:17:20,972 - INFO - Initializing attendance system...
+2025-06-07 23:17:21,415 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:17:40,314 - INFO - Shutting down by user request
+2025-06-07 23:17:40,750 - INFO - System shutdown completed
+2025-06-07 23:18:03,145 - INFO - Initializing attendance system...
+2025-06-07 23:18:03,501 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:18:47,080 - INFO - Shutting down by user request
+2025-06-07 23:18:47,516 - INFO - System shutdown completed
+2025-06-07 23:33:31,306 - INFO - Initializing attendance system...
+2025-06-07 23:33:31,681 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:33:54,995 - INFO - Shutting down by user request
+2025-06-07 23:33:55,407 - INFO - System shutdown completed
+2025-06-07 23:41:16,691 - INFO - Initializing attendance system...
+2025-06-07 23:41:17,002 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:43:01,765 - INFO - Shutting down by user request
+2025-06-07 23:43:02,290 - INFO - System shutdown completed
+2025-06-07 23:44:37,282 - INFO - Initializing attendance system...
+2025-06-07 23:44:37,893 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:45:36,780 - INFO - Shutting down by user request
+2025-06-07 23:45:37,228 - INFO - System shutdown completed
+2025-06-07 23:47:35,034 - INFO - Initializing attendance system...
+2025-06-07 23:47:35,545 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:48:06,157 - INFO - Shutting down by user request
+2025-06-07 23:48:06,636 - INFO - System shutdown completed
+2025-06-07 23:54:30,294 - INFO - Initializing attendance system...
+2025-06-07 23:54:30,294 - INFO - Checking for new student registrations...
+2025-06-07 23:54:33,727 - INFO - Successfully registered 3 students
+2025-06-07 23:54:33,729 - INFO - 3 new students registered.
+2025-06-07 23:54:34,294 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:54:53,110 - INFO - Shutting down by user request
+2025-06-07 23:54:53,592 - INFO - System shutdown completed
+2025-06-07 23:57:35,010 - INFO - Initializing attendance system...
+2025-06-07 23:57:35,010 - INFO - Checking for new student registrations...
+2025-06-07 23:57:39,358 - INFO - Successfully registered 4 students
+2025-06-07 23:57:39,370 - INFO - 4 new students registered.
+2025-06-07 23:57:39,956 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:58:08,087 - INFO - Shutting down by user request
+2025-06-07 23:58:08,579 - INFO - System shutdown completed
+2025-06-07 23:59:07,397 - INFO - Initializing attendance system...
+2025-06-07 23:59:07,397 - INFO - Checking for new student registrations...
+2025-06-07 23:59:11,810 - INFO - Successfully registered 4 students
+2025-06-07 23:59:11,810 - INFO - 4 new students registered.
+2025-06-07 23:59:12,360 - INFO - System ready. Press 'q' to quit
+2025-06-07 23:59:52,216 - INFO - Shutting down by user request
+2025-06-07 23:59:52,734 - INFO - System shutdown completed
+2025-06-08 00:02:56,715 - INFO - Initializing attendance system...
+2025-06-08 00:02:56,715 - INFO - Checking for new student registrations...
+2025-06-08 00:03:04,965 - INFO - Successfully registered 5 students
+2025-06-08 00:03:04,967 - INFO - 5 new students registered.
+2025-06-08 00:03:05,536 - INFO - System ready. Press 'q' to quit
+2025-06-08 00:03:20,962 - INFO - Shutting down by user request
+2025-06-08 00:03:21,462 - INFO - System shutdown completed
+2025-06-08 00:17:15,476 - INFO - Initializing attendance system...
+2025-06-08 00:17:15,482 - INFO - Checking for new student registrations...
+2025-06-08 00:17:23,818 - INFO - Successfully registered 5 students
+2025-06-08 00:17:23,820 - INFO - 5 new students registered.
+2025-06-08 00:17:24,402 - INFO - System ready. Press 'q' to quit
+2025-06-08 00:17:49,451 - INFO - Shutting down by user request
+2025-06-08 00:17:50,014 - INFO - System shutdown completed
+2025-06-08 00:21:32,242 - INFO - Initializing attendance system...
+2025-06-08 00:21:32,247 - INFO - Checking for new student registrations...
+2025-06-08 00:21:40,611 - INFO - Successfully registered 5 students
+2025-06-08 00:21:40,612 - INFO - 5 new students registered.
+2025-06-08 00:21:41,186 - INFO - System ready. Press 'q' to quit
+2025-06-08 00:22:07,634 - INFO - Shutting down by user request
+2025-06-08 00:22:08,069 - INFO - System shutdown completed
+2025-06-08 02:00:34,879 - INFO - Initializing attendance system...
+2025-06-08 02:00:34,895 - INFO - Checking for new student registrations...
+2025-06-08 02:00:43,254 - INFO - Successfully registered 5 students
+2025-06-08 02:00:43,254 - INFO - 5 new students registered.
+2025-06-08 02:00:43,886 - INFO - System ready. Press 'q' to quit
+2025-06-08 02:01:02,668 - INFO - Shutting down by user request
+2025-06-08 02:01:03,169 - INFO - System shutdown completed
+2025-06-08 12:02:58,381 - INFO - Initializing attendance system...
+2025-06-08 12:02:58,383 - INFO - Checking for new student registrations...
+2025-06-08 12:03:01,560 - INFO - Successfully registered 5 students
+2025-06-08 12:03:01,560 - INFO - 5 new students registered.
+2025-06-08 12:03:01,953 - INFO - System ready. Press 'q' to quit
+2025-06-08 12:03:09,158 - INFO - Shutting down by user request
+2025-06-08 12:03:09,542 - INFO - System shutdown completed
+2025-06-08 14:07:46,222 - INFO - Initializing attendance system...
+2025-06-08 14:07:46,235 - INFO - Checking for new student registrations...
+2025-06-08 14:07:49,514 - INFO - Successfully registered 5 students
+2025-06-08 14:07:49,514 - INFO - 5 new students registered.
+2025-06-08 14:07:49,910 - INFO - System ready. Press 'q' to quit
+2025-06-08 14:07:58,571 - INFO - Shutting down by user request
+2025-06-08 14:07:58,977 - INFO - System shutdown completed
+2025-06-08 14:10:02,180 - INFO - Initializing attendance system...
+2025-06-08 14:10:02,180 - INFO - Checking for new student registrations...
+2025-06-08 14:10:11,295 - INFO - Successfully registered 6 students
+2025-06-08 14:10:11,296 - INFO - 6 new students registered.
+2025-06-08 14:10:11,867 - INFO - System ready. Press 'q' to quit
+2025-06-08 14:10:42,887 - INFO - Shutting down by user request
+2025-06-08 14:10:43,360 - INFO - System shutdown completed
+2025-06-08 14:39:40,439 - INFO - Initializing attendance system...
+2025-06-08 14:39:40,442 - INFO - Checking for new student registrations...
+2025-06-08 14:39:50,858 - INFO - Successfully registered 6 students
+2025-06-08 14:39:50,865 - INFO - 6 new students registered.
+2025-06-08 14:39:51,520 - INFO - System ready. Press 'q' to quit
+2025-06-08 14:40:40,444 - INFO - Shutting down by user request
+2025-06-08 14:40:40,947 - INFO - System shutdown completed
+2025-06-08 14:42:58,367 - INFO - Initializing attendance system...
+2025-06-08 14:42:58,367 - INFO - Checking for new student registrations...
+2025-06-08 14:43:07,438 - INFO - Successfully registered 6 students
+2025-06-08 14:43:07,449 - INFO - 6 new students registered.
+2025-06-08 14:43:07,999 - INFO - System ready. Press 'q' to quit
+2025-06-08 14:44:06,742 - INFO - Shutting down by user request
+2025-06-08 14:44:07,197 - INFO - System shutdown completed
+2025-06-08 14:46:39,734 - INFO - Registered 6 students.
+2025-06-08 14:55:54,385 - INFO - Registered 6 students.
+2025-09-28 12:15:40,065 - INFO - Registered 6 students.
+2025-10-17 23:16:46,265 - INFO - Registered 6 students.
+2026-01-31 12:40:43,800 - WARNING - Skipped ajay_cse_508.jpg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,800 - WARNING - Skipped ground_floor.png: Invalid format
+2026-01-31 12:40:43,802 - WARNING - Skipped pavansai_cse_001.jpg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,802 - WARNING - Skipped prasad_ece_69.jpg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,802 - WARNING - Skipped sai_ece_023.jpeg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,802 - WARNING - Skipped vasu_cse_022.jpg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,802 - WARNING - Skipped yuga_cse_024.jpg: Unsupported image type, must be 8bit gray or RGB image.
+2026-01-31 12:40:43,804 - INFO - Registered 0 students.
